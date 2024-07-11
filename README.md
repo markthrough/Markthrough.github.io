@@ -20,7 +20,7 @@ Also, why do you need to need to press enter twice for a newline in Markdown? A 
 Markdown has a total of 17 features – which is far too many. Who even needs emojis? Is your 45-year-old aunt using Markdown? Probably not! While we're at it, we can throw images out the window too. You can just link it.
 
 
-The same goes for terms/definitions, footnotes, super/subscripts, and all the other frivolous features of Markdown. Some Markdown features have been combined into one – like lists. Instead of having different list types for 1) numbers or a) letters, you can put anything you want behind the ). If it's sequential, Markthrough will autofill with the next in the sequence – Roman numerals included (which, last I checked, Markdown does not support)
+The same goes for terms/definitions, footnotes, super/subscripts, and all the other frivolous features of Markdown. Some Markdown features have been combined into one – like lists. Instead of having different list types for `1)` numbers or `a)` letters, you can put anything you want behind the `)`. If it's sequential, Markthrough will autofill with the next in the sequence – Roman numerals included (which, last I checked, Markdown does not support). You can put `*)`, which turns it into a checkbox. You can even have unordered lists by using `–` or `*`.
 
 
 In the words of Henry David Thoreau,
